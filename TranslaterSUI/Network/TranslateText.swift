@@ -31,7 +31,7 @@ class Translate: ObservableObject {
            
             let headers = [
                 "content-type": "application/x-www-form-urlencoded",
-                "X-RapidAPI-Key": "0e2860071amsh99a96e3eefc8831p11e023jsn250cd8192f47",
+                "X-RapidAPI-Key": "0e2860071amsh99a96e3eefc8831p11e023jsn250cd8192***",
                 "X-RapidAPI-Host": "google-translate113.p.rapidapi.com"
             ]
 
